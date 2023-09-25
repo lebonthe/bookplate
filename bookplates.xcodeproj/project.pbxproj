@@ -40,7 +40,7 @@
 		9FBDDCEA2AB0B4DE00B21670 = {
 			isa = PBXGroup;
 			children = (
-				9FBDDCF52AB0B4DE00B21670 /* testCanDeleteNow */,
+				9FBDDCF52AB0B4DE00B21670 /* bookplates */,
 				9FBDDCF42AB0B4DE00B21670 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9FBDDCF52AB0B4DE00B21670 /* testCanDeleteNow */ = {
+		9FBDDCF52AB0B4DE00B21670 /* bookplates */ = {
 			isa = PBXGroup;
 			children = (
 				9FBDDCF62AB0B4DE00B21670 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				9FBDDD012AB0B4E000B21670 /* LaunchScreen.storyboard */,
 				9FBDDD042AB0B4E000B21670 /* Info.plist */,
 			);
-			path = testCanDeleteNow;
+			path = bookplates;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9FBDDCEE2AB0B4DE00B21670 /* Build configuration list for PBXProject "testCanDeleteNow" */;
+			buildConfigurationList = 9FBDDCEE2AB0B4DE00B21670 /* Build configuration list for PBXProject "bookplates" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -294,18 +294,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = T4VR973TMF;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = testCanDeleteNow/Info.plist;
+				INFOPLIST_FILE = bookplates/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Minsworks.testCanDeleteNow;
+				PRODUCT_BUNDLE_IDENTIFIER = Minsworks.bookplates;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -322,18 +323,19 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = T4VR973TMF;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = testCanDeleteNow/Info.plist;
+				INFOPLIST_FILE = bookplates/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Minsworks.testCanDeleteNow;
+				PRODUCT_BUNDLE_IDENTIFIER = Minsworks.bookplates;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -344,7 +346,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9FBDDCEE2AB0B4DE00B21670 /* Build configuration list for PBXProject "testCanDeleteNow" */ = {
+		9FBDDCEE2AB0B4DE00B21670 /* Build configuration list for PBXProject "bookplates" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FBDDD052AB0B4E000B21670 /* Debug */,
